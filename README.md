@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm T3G4RXZY
 <p align="center">
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/temp/A187.jpg" width="230" height="230"/>
+<img src="https://avatars2.githubusercontent.com/u/75916532?s=400&u=720cac69a67f91fe4cbb11a35bd3a4cfcb500cee&v=4" width="230" height="230"/>
 </p>
 <br>
 
